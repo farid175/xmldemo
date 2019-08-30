@@ -1,0 +1,39 @@
+<employees>
+
+    <employee id="100">
+        <first_name>Steve</first_name>
+        <last_name>King</last_name>
+        <email>steve.king@gmail.com</email>
+        <job_id>AD_PRES</job_id>
+        <salary>24000</salary>
+        <department_id>90</department_id>
+    </employee>
+
+    <employee id="101">
+        <first_name>Neena</first_name>
+        <last_name>Kochar</last_name>
+        <email>neena.kochar@gmail.com</email>
+        <job_id>AD_VP</job_id>
+        <salary>17000</salary>
+        <department_id>90</department_id>
+    </employee>
+
+    <employee id="103">
+        <first_name>Alexander</first_name>
+        <last_name>Hunold</last_name>
+        <email>alex.hunold@gmail.com</email>
+        <job_id>IT_PROG</job_id>
+        <salary>10000</salary>
+        <department_id>60</department_id>
+    </employee>
+
+    <employee id="104">
+        <first_name>Ali</first_name>
+        <last_name>Mammadov</last_name>
+        <email>ali.mammadov@gmail.com</email>
+        <job_id>IT_PROG</job_id>
+        <salary>700</salary>
+        <department_id>60</department_id>
+    </employee>
+
+</employees>

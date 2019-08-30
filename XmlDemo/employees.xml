@@ -1,0 +1,80 @@
+<employees>
+    <employee>
+        <id>100</id>
+        <first_name>Steve</first_name>
+        <last_name>King</last_name>
+        <email>steve.king@gmail.com</email>
+        <job_id>AD_PRES</job_id>
+        <salary>24000</salary>
+        <department_id>90</department_id>
+    </employee>
+
+    <employee>
+        <id>101</id>
+        <first_name>Neena</first_name>
+        <last_name>Kochar</last_name>
+        <email>neena.kochar@gmail.com</email>
+        <job_id>AD_VP</job_id>
+        <salary>17000</salary>
+        <department_id>90</department_id>
+    </employee>
+
+    <employee>
+        <id>103</id>
+        <first_name>Alexander</first_name>
+        <last_name>Hunold</last_name>
+        <email>alex.hunold@gmail.com</email>
+        <job_id>IT_PROG</job_id>
+        <salary>10000</salary>
+        <department_id>60</department_id>
+    </employee>
+
+    <employee>
+        <id>104</id>
+        <first_name>Ali</first_name>
+        <last_name>Mammadov</last_name>
+        <email>ali.mammadov@gmail.com</email>
+        <job_id>IT_PROG</job_id>
+        <salary>700</salary>
+        <department_id>60</department_id>
+    </employee>
+
+    <employee>
+        <id>105</id>
+        <first_name>Tofiq</first_name>
+        <last_name>Mammadov</last_name>
+        <email>tofiq.mammadov@gmail.com</email>
+        <job_id>HR_REP</job_id>
+        <salary>700</salary>
+        <department_id>40</department_id>
+    </employee>
+
+    <employee>
+        <id>106</id>
+        <first_name>Sevinc</first_name>
+        <last_name>Teymurova</last_name>
+        <email>sevinc@gmail.com</email>
+        <job_id>HR_REP</job_id>
+        <salary>800</salary>
+        <department_id>40</department_id>
+    </employee>
+
+<!--    <employee>-->
+<!--        <id>104</id>-->
+<!--        <first_name>Ali</first_name>-->
+<!--        <last_name>Mammadov</last_name>-->
+<!--        <email>ali.mammadov@gmail.com</email>-->
+<!--        <job>-->
+<!--            <id>IT_PROG</id>-->
+<!--            <title>Programmer</title>-->
+<!--        </job>-->
+<!--        <salary>700</salary>-->
+<!--        <department>-->
+<!--            <id>60</id>-->
+<!--            <name>Information Technologies</name>-->
+<!--            <manager>103</manager>-->
+<!--        </department>-->
+<!--    </employee>-->
+
+
+</employees>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<employees>
+    <employee id="1">
+        <first_name>Ali</first_name>
+        <last_name>Mammadov</last_name>
+        <email>ali@gmail.com</email>
+        <job_id>IT_PROG</job_id>
+        <salary>3000</salary>
+        <department_id>60</department_id>
+    </employee>
+    <employee id="2">
+        <first_name>Rza</first_name>
+        <last_name>Rzayev</last_name>
+        <email>rza.rzayev@gmail.com</email>
+        <job_id>IT_PROG</job_id>
+        <salary>5000</salary>
+        <department_id>60</department_id>
+    </employee>
+    <employee id="3">
+        <first_name>Tural</first_name>
+        <last_name>Muradbeyli</last_name>
+        <email>tural.muradbeyli@gmail.com</email>
+        <job_id>IT_PROG</job_id>
+        <salary>4500</salary>
+        <department_id>60</department_id>
+    </employee>
+    <employee id="4">
+        <first_name>Ilkin</first_name>
+        <last_name>Ashrafli</last_name>
+        <email>nikli@gmail.com</email>
+        <job_id>IT_PROG</job_id>
+        <salary>3500</salary>
+        <department_id>60</department_id>
+    </employee>
+    <employee id="5">
+        <first_name>Ali</first_name>
+        <last_name>Gojayev</last_name>
+        <email>ali.gojayev@gmail.com</email>
+        <job_id>AD_VP</job_id>
+        <salary>13500</salary>
+        <department_id>90</department_id>
+    </employee>
+</employees>
